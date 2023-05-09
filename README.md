@@ -1,5 +1,3 @@
-Income Expenses API
-
 ## Installation steps
 
 1. Ensure you have python3 installed
